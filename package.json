@@ -17,6 +17,10 @@
   ],
   "author": "cpp",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niaogege/cpp-tool.git"
+  },
   "devDependencies": {
     "@babel/core": "^7.17.9",
     "@babel/plugin-transform-runtime": "^7.17.0",

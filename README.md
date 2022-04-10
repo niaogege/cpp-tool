@@ -2,11 +2,11 @@
  * @Author: Chendapeng
  * @Date: 2022-04-10 22:03:28
  * @LastEditors: Chendapeng
- * @LastEditTime: 2022-04-10 23:01:04
+ * @LastEditTime: 2022-04-10 23:43:27
  * @Description: 
 -->
 
-# 打造专属工具函数库和UI组件库cpp-ui
+# 打造专属工具函数库cpp-tool
 
 ## 用到的技术栈
 - typescript
