@@ -2,16 +2,15 @@
  * @Author: Chendapeng
  * @Date: 2022-04-10 22:03:28
  * @LastEditors: Chendapeng
- * @LastEditTime: 2022-04-10 23:43:27
+ * @LastEditTime: 2022-04-12 18:58:43
  * @Description: 
 -->
 
 # 打造专属工具函数库cpp-tool
 
+不涉及Dom层面的tool
 ## 用到的技术栈
 - typescript
-- react
-- scss
 - rollup
 
 ## 配置rollup.config.js
@@ -31,7 +30,7 @@ String 生成包的格式。 下列之一:
 - system - SystemJS 加载器格式
 
 ## 配置external
-
+无需一起打包的第三方库放到该配置里
 
 ## 配置typescript
 *npm i @rollup/plugin-typescript -D*

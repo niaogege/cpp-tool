@@ -1,5 +1,5 @@
 {
-  "name": "@cpp/tool",
+  "name": "cpp-tool",
   "version": "1.0.0",
   "description": "工具函数",
   "main": "lib/bundle.cjs.js",
